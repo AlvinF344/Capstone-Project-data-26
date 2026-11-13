@@ -1,0 +1,31 @@
+
+# RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Temporary files
+*.tmp
+*.log
+
+# Credentials
+.env
+.env.*
+!.env.example
+
+# Private or large datasets
+
+Data/
+
+
+# Database backups
+*.dump
+*.backup
+*.sql.gz
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+.Rproj.user
